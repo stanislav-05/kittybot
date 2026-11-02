@@ -1,0 +1,23 @@
+# Секреты
+.env
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Кэш Python и инструментов
+__pycache__/
+*.py[cod]
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# Логи
+*.log
+
+# IDE и ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
